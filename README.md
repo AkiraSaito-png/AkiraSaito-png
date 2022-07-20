@@ -6,9 +6,6 @@ I'm a Computer Engineering student , fascinated for technology and always lookin
 
 Passionate about solving problems and self-improvement. Always learning ! 👨‍💻
 
-
-### "The best way to predict the future is to create it" 🧠
-
 <div align="center">
   <a href="https://github.com/AkiraSaito-png">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AkiraSaito-png&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
